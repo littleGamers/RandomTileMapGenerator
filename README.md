@@ -14,9 +14,9 @@ Other parameters were kept from the original script.
 
 # Scripts
 
-**[Random Tile Generator](Assets/Scripts/RandomTileGenerator.cs)** - This is the main generator script.
+**[Random Tile Generator](Assets/Scripts/RandomTileGenerator.cs)** - This is the main generator algorithm.
 
-The script generates a random int array with numbers from 0 to 'number if tiles to choose from'.
+The script generates a random int array with numbers from 0 to 'number of tiles to choose from'.
 
 The script can smooth the tilemap for better results.
 
@@ -24,7 +24,7 @@ See notes for more details.
 
 <br/>
 
-**[Tilemap Generator](Assets/Scripts/TilemapGenerator.cs)** - This script is meant to be used by the with the tilemap object.
+**[Tilemap Generator](Assets/Scripts/TilemapGenerator.cs)** - This script is meant to be used with the tilemap object.
 
 The script contains all the parameters needed to use the algrorithm.
 
