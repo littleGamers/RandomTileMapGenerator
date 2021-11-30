@@ -5,10 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/3-enemies/c-patrol.unity
     guid: cbdbd2056f2a7574295152774e1734f1
-  - enabled: 1
-    path: Assets/Scenes/4-generation/c-tilemap-20.unity
-    guid: 2eaf25b820acc7848835eab353e17dc6
   m_configObjects: {}
